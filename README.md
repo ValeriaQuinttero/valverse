@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeria Quintero</h1>
-<h3 align="center">I'm learning programming language</h3>
+<h3 align="center">I'm learning programming</h3>
 
 - 🤝 I’m looking for help with **GRID Y FLEXBOX**
 <h3 align="left">Connect with me:</h3>
